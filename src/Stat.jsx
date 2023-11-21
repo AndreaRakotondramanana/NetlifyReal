@@ -7,7 +7,7 @@ function Stat() {
         <div className="Stat">
             <header>
                 <h2>Statistiques individuelles</h2>
-                <h4>Saison 2023-2022</h4>
+                <h4>Saison 2023-2024</h4>
             </header>
 
             <div class="container">
@@ -27,8 +27,6 @@ function Stat() {
                                             <th scope="col">PPM</th>
                                             <th scope="col">RPM</th>
                                             <th scope="col">PDPM</th>
-                                            <th scope="col">MPM</th>
-                                            <th scope="col">EFF</th>
                                             <th scope="col">FG%</th>
                                             <th scope="col">3P%</th>
                                             <th scope="col">%LF</th>
@@ -44,8 +42,6 @@ function Stat() {
                                             <td>28.5</td>
                                             <td>7.2</td>
                                             <td>6.3</td>
-                                            <td>34.6</td>
-                                            <td>32.1</td>
                                             <td>50.2%</td>
                                             <td>36.7%</td>
                                             <td>77.8%</td>
@@ -64,8 +60,6 @@ function Stat() {
                                             <td>25.8</td>
                                             <td>5.5</td>
                                             <td>4.1</td>
-                                            <td>31.2</td>
-                                            <td>28.7</td>
                                             <td>52.3%</td>
                                             <td>40.2%</td>
                                             <td>88.1%</td>
@@ -84,8 +78,6 @@ function Stat() {
                                             <td>29.9</td>
                                             <td>10.3</td>
                                             <td>5.8</td>
-                                            <td>33.4</td>
-                                            <td>31.6</td>
                                             <td>55.6%</td>
                                             <td>30.3%</td>
                                             <td>69.7%</td>
